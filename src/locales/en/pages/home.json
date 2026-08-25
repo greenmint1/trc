@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "headline": "We Animate Your Artwork to Dominate the Instagram Feed.",
+    "loading": "Loading..."
+  },
+  "timeline": {
+    "blocks": {
+      "block1": {
+        "headline": "Don't Just Showcase Your Art. Let It Breathe.",
+        "watermark1": "El Jaleo by John Singer Sargent"
+      },
+      "block2": {
+        "headline": "Bringing Fine Art to Life for the Digital Canvas.",
+        "watermark1": "Las Meninas by Diego Velazquez",
+        "watermark2": "Anxiety by Edvard Munch"
+      },
+      "block3": {
+        "headline": "Transforming Static Paintings into Living Digital Masterpieces.",
+        "watermark1": "Bal du moulin de la Galette by Pierre-Auguste Renoir"
+      },
+      "block4": {
+        "headline": "Elevating Masterpieces Beyond the Physical Frame.",
+        "watermark1": "Breezing Up (A Fair Wind) by Winslow Homer"
+      },
+      "block5": {
+        "headline": "Where Traditional Brushstrokes Meet High-End Digital Animation.",
+        "watermark1": "The Piano Player by Thomas Eakins",
+        "watermark2": "Woman with a Parasol - Madame Monet and Her Son by Claude Monet"
+      },
+      "block6": {
+        "headline": "Turn Your Paintings into Captivating Stories That Demand Attention.",
+        "watermark1": "Waves Breaking on a Lee Shore by J.M.W. Turner"
+      }
+    }
+  }
+}

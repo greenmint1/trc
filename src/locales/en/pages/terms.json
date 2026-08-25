@@ -1,0 +1,51 @@
+{
+  "title": "Terms of Service",
+  "introPrefix": "Welcome to The Revived Canvas (accessible from - ",
+  "introSuffix": "). By accessing our website, using our services, or submitting your artwork through our project intake form, you agree to be bound by these Terms of Service. Please read them carefully before submitting your work.",
+  "sections": {
+    "framework": {
+      "title": "1. Creative Framework & Project Guidelines",
+      "body": "To keep our plans competitive and maintain highly efficient delivery speeds, we operate under a streamlined, single-draft creative model.",
+      "item1Label": "No Draft Reviews or Revisions:",
+      "item1Body": "We custom-animate your artwork directly based on our proven creative distribution models. To maintain speed and our accessible plans tiers, we do not provide initial design briefs, specific music requests, or post-delivery customization requests.",
+      "item2Label": "Unified Aesthetic:",
+      "item2Body": "We utilize a single, unified sound and visual design framework across all animations to ensure complete aesthetic, auditory, and visual consistency with our brand guidelines.",
+      "item3Label": "Watermarking & Branding:",
+      "item3Body": "To protect the digital assets and maintain brand attribution across hosting platforms, all final animations will include a subtle, permanent @therevivedcanvas visual watermark. This watermark is a non-negotiable element of our production framework.",
+      "item4Label": "Final Delivery:",
+      "item4Body": "The final animations are delivered directly to you or scheduled for co-author publication on Instagram and cross-posting on Facebook according to your selected tier."
+    },
+    "payments": {
+      "title": "2. Intake, Booking, and Payments",
+      "item1Label": "Google Form Intake:",
+      "item1Body": "Clicking \"Get Package\" redirects you to a secure Google Form to submit your high-resolution assets and project details.",
+      "item2Label": "Google Account Requirement:",
+      "item2Body": "Because our intake form requires a high-resolution file upload, you must be signed in to a Google Account to securely transfer your artwork files.",
+      "item3Label": "No Upfront Payments:",
+      "item3Body": "Submitting the form does not process a payment and does not guarantee booking. It is a project application. We will review your files, contact you to finalize project details, and arrange secure payment details later.",
+      "item4Label": "Payment & Refunds:",
+      "item4Body": "Payments must be processed and completed before final animations are published or delivered. Due to the custom, labor-intensive nature of digital motion design, all completed animation services are non-refundable once the creative process has begun."
+    },
+    "licensing": {
+      "title": "3. Intellectual Property and Licensing",
+      "item1Label": "Artist Ownership:",
+      "item1Body": "You retain 100% of the copyright, ownership, and intellectual property rights to your original physical and digital artwork.",
+      "item2Label": "Promotional Motion License:",
+      "item2Prefix": "By submitting your artwork, you grant The Revived Canvas a worldwide, non-exclusive, royalty-free, perpetual license to digitize, crop, layer, animate, and sound-design your artwork as a video asset. This license is strictly limited to showcasing the resulting animation on our official Instagram account (",
+      "item2InstagramSuffix": ")",
+      "item2Joiner": " and Facebook page (",
+      "item2Suffix": ") via feed posts, reels, collaborator posts, stories, or profile highlights, and may not be published on any other website, third-party platform, or marketing medium without your explicit, separate written consent.",
+      "item3Label": "Credits and Collaborator Posts:",
+      "item3Body": "We make every effort to clearly credit and tag you as the original artist using your provided Instagram handle or website link. For tiers including collaborator posts, you must accept the Instagram collaborator invite to display the post on your profile."
+    },
+    "liability": {
+      "title": "4. Limitation of Liability",
+      "body": "The Revived Canvas provides digital animation and social media curation on an \"as-is\" and \"as-available\" basis. While we design our animations to maximize algorithmic reach and engagement on social media platforms, we do not guarantee specific follower growth, view counts, art sales, or algorithmic performance."
+    },
+    "contact": {
+      "title": "5. Contact Information",
+      "body": "If you have any questions or require clarification on these Terms, please reach out to us:",
+      "instagramLabel": "Instagram Direct Message:"
+    }
+  }
+}

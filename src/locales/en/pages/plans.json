@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "Plans",
+    "description": "As a painter, your artwork deserves to be experienced, not just viewed. Static images on Instagram often fail to capture the depth, brushstrokes, and emotion of a physical canvas. The Revived Canvas transforms static masterpieces into high-quality breathing animations that command attention in a crowded feed. By turning your art into dynamic video content, you unlock stronger algorithmic distribution and reach art collectors, galleries, and enthusiasts globally."
+  },
+  "impact": {
+    "pillar1": {
+      "title": "Skyrocket Your Visibility",
+      "body": "Instagram heavily prioritizes video content. Animated artwork naturally stops the scroll, improves watch time, and increases your reach in Explore and Reels."
+    },
+    "pillar2": {
+      "title": "Rapid Follower and Engagement Growth",
+      "body": "Moving art drives stronger emotional response. Audiences are more likely to like, comment, save, and share dynamic pieces than static posts."
+    },
+    "pillar3": {
+      "title": "The Power of Collaboration",
+      "body": "Collaborator posts place the same work on both profiles, combining audiences and sending highly relevant traffic directly to your page."
+    },
+    "pillar4": {
+      "title": "Direct Traffic and Art Sales",
+      "body": "Each campaign can include direct portfolio or shop links so attention converts into real inquiries, visits, and purchase intent."
+    }
+  },
+  "packages": {
+    "one": {
+      "name": "Package 1: The Solo Spotlight",
+      "price": "$70",
+      "summary": "Perfect for artists looking for premium, custom content to publish on their own terms.",
+      "feature1": "1 custom reel animation with 4 variation concepts; keep your favorite.",
+      "feature2": "1 dedicated story feature with artist tag for initial traffic.",
+      "bestFor": "Best for testing the waters or building a library of dynamic assets for your portfolio.",
+      "cta": "Get Package 1"
+    },
+    "two": {
+      "name": "Package 2: The Collaborator Accelerator",
+      "price": "$100",
+      "summary": "Designed to maximize the Instagram algorithm and directly tap into our active audience.",
+      "feature1": "2 custom reel animations for broader content velocity.",
+      "feature2": "Instagram collaborator post published on both feeds.",
+      "feature3": "Permanent placement in the Modern Artists profile highlight.",
+      "feature4": "2 dedicated story features with direct links to your store or portfolio.",
+      "bestFor": "Best for artists looking to grow follower count and drive immediate profile traffic.",
+      "cta": "Get Package 2"
+    },
+    "three": {
+      "name": "Package 3: The Gallery Showcase Portfolio",
+      "price": "$125",
+      "summary": "The ultimate growth package for serious painters launching a collection or driving major visibility.",
+      "feature1": "3 premium reel animations for your artwork or collection.",
+      "feature2": "Sequential collaborator post options for repeated audience exposure.",
+      "feature3": "Permanent placement in the elite Modern Artists story highlight.",
+      "feature4": "3 dedicated story features with direct call-to-action links.",
+      "feature5": "SEO-oriented hashtag and post metadata optimization guidance.",
+      "bestFor": "Best for maximizing ROI, supporting exhibitions, or driving high-volume sales for originals and prints.",
+      "cta": "Get Package 3"
+    }
+  },
+  "booking": {
+    "title": "How Booking Works",
+    "noteTitle": "Please Note before Selecting a Package:",
+    "zeroUpfrontLabel": "Zero Upfront Payment:",
+    "zeroUpfrontBody": "Clicking a package below redirects you to our secure Google Form project intake. You will submit your project details and artwork files first no payment is required to submit. We will review your application and contact you directly to finalize details before any payment occurs.",
+    "googleSignInLabel": "Google Sign-In Required:",
+    "googleSignInBody": "Because the intake form includes a secure high-resolution file uploader for your paintings, Google requires you to be signed into a Google Account to upload files safely."
+  },
+  "guidelines": {
+    "title": "Our Animation & Production Guidelines",
+    "customAnimationLabel": "Custom Animation Process:",
+    "customAnimationBody": "We custom-animate your artwork directly based on our proven creative distribution models.",
+    "noCustomRequestsLabel": "No Custom Requests:",
+    "noCustomRequestsBody": "To maintain this speed and plans tier, no initial design briefs, specific music requests, or post-delivery customization requests can be accepted.",
+    "unifiedFrameworkLabel": "Unified Production Framework:",
+    "unifiedFrameworkBody": "We utilize a single, unified sound and visual design framework across all animations to ensure complete visual and auditory consistency with our brand guidelines."
+  }
+}

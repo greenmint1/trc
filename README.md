@@ -1,0 +1,1 @@
+- Compress landing videos with https://videocompress.ai

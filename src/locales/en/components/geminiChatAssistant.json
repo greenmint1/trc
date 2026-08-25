@@ -1,0 +1,28 @@
+{
+  "title": "AI Ask",
+  "triggerLabel": "Ask",
+  "openAssistantAriaLabel": "Open chat assistant",
+  "closeAssistantAriaLabel": "Close chat assistant",
+  "clearHistoryAriaLabel": "Clear chat history",
+  "panelAriaLabel": "Gemini chat assistant",
+  "placeholder": "Ask anything",
+  "inputAriaLabel": "Chat message input",
+  "sendAriaLabel": "Send message",
+  "thinking": "Thinking...",
+  "serviceUnavailable": "Service is unavailable",
+  "prompts": [
+    "What can I help with today?",
+    "Are you interested in plans details?",
+    "Want to know how booking works?",
+    "Curious about the art animation process?",
+    "Would you like to explore the available packages?",
+    "Need contact details or next steps?",
+    "Should I explain the collaboration options?",
+    "Can I help you compare packages?",
+    "Looking for the best package for your artwork?",
+    "Need help understanding the booking guidelines?",
+    "Do you want details on the plans page?",
+    "Can I help clarify the terms or privacy pages?",
+    "What would you like to know about The Revived Canvas?"
+  ]
+}

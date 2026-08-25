@@ -1,0 +1,51 @@
+{
+  "brand": {
+    "name": "The Revived Canvas"
+  },
+  "nav": {
+    "home": "Home",
+    "plans": "Plans",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "labels": {
+    "menu": "Menu",
+    "navigate": "Navigate",
+    "settings": "Settings",
+    "theme": "Theme",
+    "sound": "Sound",
+    "legal": "Legal",
+    "mostPopular": "MOST POPULAR"
+  },
+  "actions": {
+    "viewPlans": "View Plans",
+    "turnOnAudio": "Turn on audio",
+    "getInTouch": "Get in Touch",
+    "sendDirectMessage": "Send Us a Direct Message"
+  },
+  "states": {
+    "on": "On",
+    "off": "Off",
+    "dark": "Dark",
+    "light": "Light",
+    "loading": "Loading..."
+  },
+  "aria": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "closeMenuOverlay": "Close menu overlay",
+    "mobileMenu": "Mobile menu"
+  },
+  "meta": {
+    "effectiveDate": "Effective Date: July 16, 2026"
+  },
+  "links": {
+    "facebookPageLabel": "The Revived Canvas",
+    "facebookPageUrl": "https://facebook.com/therevivedcanvasofficial",
+    "instagramHandle": "@therevivedcanvas",
+    "instagramPageUrl": "https://instagram.com/therevivedcanvas",
+    "website": "therevivedcanvas.com"
+  }
+}

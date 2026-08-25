@@ -1,0 +1,55 @@
+{
+  "title": "Privacy Policy",
+  "introPrefix": "At The Revived Canvas (accessible from - ",
+  "introSuffix": "), your privacy is of utmost importance to us. This Privacy Policy outlines the types of personal and creative data we collect, how we use it, and the measures we take to keep your information secure.",
+  "sections": {
+    "collect": {
+      "title": "1. Information We Collect",
+      "body": "We collect information directly from you when you submit an application through our Project Intake Form (hosted via Google Forms) or communicate with us on Instagram.",
+      "item1Label": "Personal Identification Info:",
+      "item1Body": "Full name, email address, and Instagram account handle.",
+      "item2Label": "Creative Assets:",
+      "item2Body": "High-resolution image files of your original paintings, sketches, or digital designs uploaded for animation.",
+      "item3Label": "Artwork Metadata:",
+      "item3Body": "Painting titles, artist credits, medium details, and optional promotional URLs or exhibition links."
+    },
+    "use": {
+      "title": "2. How We Use Your Information",
+      "body": "We utilize the collected information strictly to perform and manage our digital curation and animation services:",
+      "item1": "To review and evaluate your artwork for digital animation feasibility.",
+      "item2": "To contact you directly via email or Instagram to discuss package agreements, project details, and future collaborations.",
+      "item3Prefix": "To format and credit your creative work correctly when publishing animations to our official social media channels (e.g., ",
+      "item3InstagramSuffix": " on Instagram",
+      "item3Joiner": " and ",
+      "item3Suffix": " on Facebook).",
+      "noticeLabel": "No Automated Financial Processing:",
+      "noticeBody": "We do not collect credit card details or process payments directly on our website or intake form. All billing queries and invoice processing happen manually after direct consultation."
+    },
+    "storage": {
+      "title": "3. Data Storage, Security, and Third-Party Tools",
+      "item1Label": "Google Forms Integration:",
+      "item1Body": "Our asset submission process requires you to sign in with your Google Account to securely upload large media assets. Your uploaded files and form data are stored securely within our Google Workspace drive.",
+      "item2Label": "Social Platforms:",
+      "item2Body": "Direct messaging exchanges and metadata publishing are governed by Instagram's privacy policies.",
+      "item3Label": "No Third-Party Sharing:",
+      "item3Body": "We do not sell, trade, or transfer your personal data, contact information, or raw artwork assets to outside third parties."
+    },
+    "rights": {
+      "title": "4. Intellectual Property & Creative Rights",
+      "item1Label": "Your Artwork Remains Yours:",
+      "item1Body": "Artists retain 100% ownership and copyright of their original physical and digital paintings.",
+      "item2Label": "Promotional License:",
+      "item2Prefix": "By submitting your artwork assets, you grant The Revived Canvas a non-exclusive license to transform, animate, and publish the resulting animation loops. This license is strictly limited to showcasing the animations on our official Instagram account (",
+      "item2InstagramSuffix": ")",
+      "item2Joiner": " and Facebook page (",
+      "item2Suffix": ") to promote your work and our curation platform, and they will not be published on our website, other third-party platforms, or any marketing mediums without your explicit, separate consent.",
+      "item3Label": "Removal Requests:",
+      "item3Body": "If you wish to have a published animation or your stored asset files removed from our database, please contact us directly. Once requested, your data deletion and asset removal will be processed and completed within 1 to 5 business days."
+    },
+    "contact": {
+      "title": "5. Contact Us",
+      "body": "If you have questions regarding this Privacy Policy, or if you want to request data deletion, contact us:",
+      "instagramLabel": "Instagram Direct Message:"
+    }
+  }
+}
