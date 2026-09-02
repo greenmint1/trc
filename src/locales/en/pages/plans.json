@@ -24,7 +24,7 @@
   "packages": {
     "one": {
       "name": "Package 1: The Solo Spotlight",
-      "price": "$70",
+      "price": "$100",
       "summary": "Perfect for artists looking for premium, custom content to publish on their own terms.",
       "feature1": "1 custom reel animation with 4 variation concepts; keep your favorite.",
       "feature2": "1 dedicated story feature with artist tag for initial traffic.",
@@ -33,7 +33,7 @@
     },
     "two": {
       "name": "Package 2: The Collaborator Accelerator",
-      "price": "$100",
+      "price": "$170",
       "summary": "Designed to maximize the Instagram algorithm and directly tap into our active audience.",
       "feature1": "2 custom reel animations for broader content velocity.",
       "feature2": "Instagram collaborator post published on both feeds.",
@@ -44,7 +44,7 @@
     },
     "three": {
       "name": "Package 3: The Gallery Showcase Portfolio",
-      "price": "$125",
+      "price": "$220",
       "summary": "The ultimate growth package for serious painters launching a collection or driving major visibility.",
       "feature1": "3 premium reel animations for your artwork or collection.",
       "feature2": "Sequential collaborator post options for repeated audience exposure.",
